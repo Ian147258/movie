@@ -16,5 +16,6 @@
 + [尋龍使者:拉雅](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fcdn.zoubuting.com%2F20210705%2F6cQ24miP%2F1200kb%2Fhls%2Findex.m3u8)
 ## 2022
 + [捍衛戰士：獨行俠](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fvip.lz-cdn10.com%2F20220824%2F2302_698faddf%2F1200k%2Fhls%2Fmixed.m3u8)
-##噬亡村
+## 噬亡村
 + [1](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fvip.lz-cdn9.com%2F20221228%2F16649_287d0f51%2F2000k%2Fhls%2Fmixed.m3u8)
++ [2]
