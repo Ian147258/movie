@@ -20,3 +20,5 @@
 ## 噬亡村
 + [1](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fvip.lz-cdn9.com%2F20221228%2F16649_287d0f51%2F2000k%2Fhls%2Fmixed.m3u8)
 + [2](https://www.hlsplayer.net/#type=m3u8&src=https%3A%2F%2Fvip.lz-cdn9.com%2F20221228%2F16648_a6b71e47%2F2000k%2Fhls%2Fmixed.m3u8)
+## win11
++ [block](https://onedrive.live.com/?authkey=%21ADe-Sf6akTkvFL0&id=1573A6472EDD1166%21899283&cid=1573A6472EDD1166)
